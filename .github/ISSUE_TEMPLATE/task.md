@@ -1,15 +1,14 @@
 ---
 name: Task
-about: A task to be completed
+about: General task that needs to happen to support the project
 labels: task
 ---
 
-<!-- Use this form for general tasks that need to happen to support the project -->
+## What needs to be done?
 
-**What needs to be done**:
+## Why does this need to be done?
 
-**Why does this need to be done**:
+## Who is asking for it?
 
-**Who is asking for it?**:
+## What does "done" mean?
 
-**Definition of done**

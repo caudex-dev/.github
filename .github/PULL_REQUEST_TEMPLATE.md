@@ -1,4 +1,4 @@
-**What type of PR is this?**
+## What type of PR is this?
 
 <!-- Select one:
 -->
@@ -11,9 +11,10 @@
 - test
 - new feature
 
-**What this PR does / why we need it**:
+## What does this PR do / why do we need it?
 
-**Which issue(s) this PR fixes**:
+## Which issue(s) does this PR fix?
+
 <!--
 *Automatically closes linked issue when PR is merged.
 Usage: `Fixes #<issue number>`, or `Fixes (paste link of issue)`.
@@ -21,10 +22,7 @@ Usage: `Fixes #<issue number>`, or `Fixes (paste link of issue)`.
 
 Fixes #
 
-**Any important notes for reviewers?**:
+## Any important notes for reviewers?
 
-**Please consider adding some release notes**:
+## Have you updated the CHANGELOG.md release notes?
 
-```release-note
-
-```

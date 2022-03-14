@@ -4,8 +4,9 @@ about: Discuss a possible change or feature
 labels: suggestion/discussion/question
 ---
 
-**What**
+## What?
 
-**Why**
+## Why?
 
-**Concerns**
+## Concerns?
+
